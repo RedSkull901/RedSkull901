@@ -1,3 +1,7 @@
+## 👋 Hi, I’m Rishabh Saini  
+**Security Engineer | CEH | SOC → Security Automation**  
+Building practical security automation and detection engineering solutions.
+
 ---
 
 ## 🔐 About Me
