@@ -1,6 +1,36 @@
-# 💫 About Me:
-Building practical, scalable security solutions across cloud, endpoint, identity, and detection engineering<br>A documented, hands-on journey from SOC Analyst → Security Engineer, focused on building real security systems instead of toy scripts.<br>I’m a cybersecurity professional with hands-on experience across security operations, cloud security, endpoint protection, identity security, and vulnerability management.<br>I’ve worked closely with enterprise clients, led security initiatives, and translated security requirements into actionable controls and implementations.<br><br>Currently, I’m focused on transitioning deeper into Security Engineering by building real-world automation, detection, and platform-level security projects—documented openly on GitHub.<br><br>I’m particularly interested in roles where I can own security problems end-to-end, work close to engineering teams, and make a measurable impact over the long term.
+---
 
+## 🔐 About Me
+
+I’m a cybersecurity professional with hands-on experience in SOC operations, cloud security, endpoint protection, identity security, and vulnerability management. I’ve worked closely with enterprise clients, led security initiatives, and translated security requirements into actionable implementations.
+
+I’m currently focused on moving deeper into Security Engineering, with an emphasis on automation, detection engineering, and scalable security systems.
+
+---
+
+## 🛠 Core Skills
+
+**Security Tools:** SentinelOne, Microsoft Defender, Trend Micro, Barracuda, Rapid7  
+**Cloud & Identity:** Azure, AWS, GCP, Azure AD, OKTA, Auth0  
+**Engineering:** Python, Bash, Linux, Docker, CI/CD security  
+**Security Domains:** Detection engineering, incident response, security posture improvement  
+
+---
+
+## 🚀 What I’m Building
+
+### 🧪 Security Automation Lab
+
+A hands-on journey from SOC Analyst → Security Engineer, focused on real-world security engineering.
+
+**Focus areas:**
+- Linux log analysis & detections  
+- Python-based security automation  
+- Containerized security tools  
+- CI/CD security pipelines  
+- End-to-end security automation platform  
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabhsaini901) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:workbysaini@gmail.com) 
