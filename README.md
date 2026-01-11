@@ -14,7 +14,7 @@ I’m currently focused on moving deeper into Security Engineering, with an emph
 
 ## 🛠 Core Skills
 
-**Security Tools:** SentinelOne, Microsoft Defender, Barracuda, Google Admin, O365 
+**Security Tools:** SentinelOne, Microsoft Defender, Barracuda, Google Admin, O365  
 **Cloud & Identity:** Azure, AWS, GCP, Azure AD, OKTA, Auth0  
 **Engineering:** Python, Bash, Linux, Docker, CI/CD security  
 **Security Domains:** Detection engineering, incident response, security posture improvement  
